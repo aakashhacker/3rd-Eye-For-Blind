@@ -1,0 +1,2 @@
+# 3rd-Eye-For-Blind
+“Third eye is that visually challenged people can use to navigate.They used application in android phones by using this app, people who have low to know eyesight can use smart phone almost like everyone else.They offer great services and we thank to we are develop this app.Use this application blind people using smart phones and tablets.This app has voice guide that tells the user everything that it’s happening in the device(Location, Recorder, Alarm, screen off/on, calling, messaging etc...)This app is compatible with talking assistance also.”
